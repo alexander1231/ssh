@@ -1,0 +1,36 @@
+.normal-text{
+    font-size: 1rem !important;
+}
+
+.tm-image{
+    height: 50px;
+    position: absolute;
+    top: 7px;
+    left: 50px !important;
+}
+
+.bckground-rojo{
+    background-color: #f2405d;
+
+}
+.bckground-purpura{
+    background-color: #a261dd !important;
+
+}
+ 
+ .bckground-rosa{
+    background-color: #E83870 !important;
+
+}
+
+.boder-0{
+    border: none !important;
+}
+
+.mrg-top{
+    margin-top: 30px
+}
+
+body{
+    background-color: #fafafa;
+}
